@@ -1,31 +1,5 @@
 # 19CS406-EX-1 STUDY OF SOCKET PROGRAMMING WITH CLIENT-SERVER MODEL
 
-DATE :
-
-AIM :
-
-
-ALGORITHM :
-
-
-
-
-PROGRAM :
-
-
-
-
-
-
-OUTPUT:
-
-
-
-
-RESULT:
-
-# 19CS406-EX-1 STUDY OF SOCKET PROGRAMMING WITH CLIENT-SERVER MODEL
-
 DATE :08-03-2023
 
 # AIM :
@@ -58,8 +32,8 @@ To implement socket programming date and time display from client to server usin
 # PROGRAM :
 ## CLIENT :
 ```
-# Developed by : M.D.HARINI
-# Register Number : 212222230043
+# Developed by : P. Bhagyasri Reddy
+# Register Number : 212220040126
 import socket
 from datetime import datetime
 s=socket.socket()
