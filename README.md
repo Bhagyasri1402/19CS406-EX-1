@@ -50,8 +50,8 @@ if ack:
 ```
 ## SERVER :
 ```
-# Developed by : M.D.HARINI
-# Register Number : 212222230043
+# Developed by : P. Bhagyasri Reddy
+# Register Number : 212220040126
 import socket
 s=socket.socket()
 s.connect(('localhost',8000))
